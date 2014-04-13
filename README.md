@@ -41,6 +41,12 @@ https://2014.spaceappschallenge.org/challenge/tree-factor/
 Using Open Street Map (OSM)
 
 The project was initialy based upon OSMtracker  
+Create an Layouts directory under OSMtracker in adndroid and add the treeLayout.xml
+
+In OSM tracker select Menu and buttons and choose TreeLayout
+A Tree button will appear in your user interface
+
+
 The POI inside a track could not be directly uploaded onto OSM server
 
 The Vespucci OSM Editor Android application, designed y Marcus Wolschon 
