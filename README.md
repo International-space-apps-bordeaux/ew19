@@ -36,4 +36,37 @@ https://2014.spaceappschallenge.org/challenge/tree-factor/
         http://apps.fs.fed.us/fiadb-downloads/datamart.html
         http://www.fia.fs.fed.us/library/database-documentation/current/ver5.1.6/FIADB_user%20manual_5-1-6_p2_7_12_2013_all.pdf
         http://www.epa.gov/greenapps/existing_apps.html?appSearch=tree 
+        
+///////////////////////////////////////////////////////////////////////////////////////
+Using Open Street Map (OSM)
+
+The project was initialy based upon OSMtracker  
+The POI inside a track could not be directly uploaded onto OSM server
+
+The Vespucci OSM Editor Android application, designed y Marcus Wolschon 
+http://code.google.com/p/osmeditor4android
+
+
+
+
+
+
+
+by Pierre Capdepuy at Ateraction
+http://www.ateraction.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
